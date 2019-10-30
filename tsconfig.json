@@ -17,7 +17,27 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-components": [
+        "dist/angular-components"
+      ],
+      "angular-components/*": [
+        "dist/angular-components/*"
+      ],
+      "footer-component": [
+        "dist/footer-component"
+      ],
+      "footer-component/*": [
+        "dist/footer-component/*"
+      ],
+      "footer": [
+        "dist/footer"
+      ],
+      "footer/*": [
+        "dist/footer/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

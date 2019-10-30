@@ -1,0 +1,21 @@
+{
+  "name": "agile-palace-footer",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9"
+  },
+  "main": "bundles/agile-palace-footer.umd.js",
+  "module": "fesm5/agile-palace-footer.js",
+  "es2015": "fesm2015/agile-palace-footer.js",
+  "esm5": "esm5/agile-palace-footer.js",
+  "esm2015": "esm2015/agile-palace-footer.js",
+  "fesm5": "fesm5/agile-palace-footer.js",
+  "fesm2015": "fesm2015/agile-palace-footer.js",
+  "typings": "agile-palace-footer.d.ts",
+  "metadata": "agile-palace-footer.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

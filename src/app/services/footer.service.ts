@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Footer } from './material-footer/footer';
+import { Footer } from '../material-footer/footer';
 @Injectable({
   providedIn: 'root'
 })
